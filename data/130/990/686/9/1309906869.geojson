@@ -41,7 +41,7 @@
         "gn:id":3660451
     },
     "wof:country":"EC",
-    "wof:geomhash":"0a65786ac12366ca65037735aaf0d416",
+    "wof:geomhash":"4bf3d4b94df72037d04e8403bf73f7ab",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -67,5 +67,5 @@
     -78.73333000000002,
     -2.7
 ],
-  "geometry": {"coordinates":[-78.73333000000002,-2.7],"type":"Point"}
+  "geometry": {"coordinates":[-78.73333,-2.7],"type":"Point"}
 }
