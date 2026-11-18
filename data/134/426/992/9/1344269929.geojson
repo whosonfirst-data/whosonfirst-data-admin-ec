@@ -73,12 +73,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Salado"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u8428\u62c9\u591a\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u96a1\u62c9\u591a\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -102,7 +96,7 @@
         }
     ],
     "wof:id":1344269929,
-    "wof:lastmodified":1636502085,
+    "wof:lastmodified":1794999722,
     "wof:name":"Salado",
     "wof:parent_id":421185495,
     "wof:placetype":"locality",
